@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/itemFacebook"
+        android:icon="@android:drawable/ic_dialog_email"
+        android:title="Facebook"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/itemGoogle"
+        android:icon="@android:drawable/ic_menu_share"
+        android:title="Google" />
+    <item
+        android:id="@+id/itemZalo"
+        android:icon="@android:drawable/ic_menu_share"
+        android:title="Zalo" />
+</menu>
